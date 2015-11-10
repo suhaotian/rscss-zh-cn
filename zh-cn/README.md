@@ -1,8 +1,3 @@
-<!-- {h5: style='display:none'} -->
-
-----
-<!-- {hr: style='display:none'} -->
-
 # rscss
 
 <!-- {h1:.massive-header.-with-tagline} -->
