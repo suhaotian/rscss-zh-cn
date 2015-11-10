@@ -1,44 +1,12 @@
-##### Viewing this from GitHub? Visit the website for the full experience. **[rscss.io →](http://rscss.io)**
-<!-- {h5: style='display:none'} -->
+# About
 
-----
-<!-- {hr: style='display:none'} -->
+这个仓库是 [rscss](https://github.com/rstacruz/rscss) 的中文翻译。
+这篇文档适合有一定 sass 经验的人阅读 ：）如果你英文可以，请移步 [rscss.io](rscss.io)。
 
-# rscss test
+# why
 
-<!-- {h1:.massive-header.-with-tagline} -->
+翻译这个纯粹是因为认为作者写的很好，对我也很有帮助，翻译之，也可以当作温习。
+希望也对你有帮助，写出更好的 CSS！
 
-> Styling CSS without losing your sanity
+如果翻译有错误或不合理的地方，请指出。
 
-Reasonable System for CSS Stylesheet Structure.<br>
-A set of simple ideas to guide your process of building maintainable CSS.
-
-Introduction
-------------
-
-Any CSS greater than 1000 lines will get unwieldy. You'll eventually run into these common pitfalls:
-
-* "What does this class mean?"
-* "Is this class still being used?"
-* "If I make a new class `green`, will there be a clash?"
-
-**rscss** is an attempt to make sense of all these. It is not a framework. It's simply a set of ideas to guide your process of building maintainable CSS for any modern website or application.
-
-Let's get started by learning about components.
-[Continue →](docs/components.md)
-<!-- {p:.pull-box} -->
-
-----
-<!-- {hr: style='display:none'} -->
-
-**rscss** © 2015+, Rico Sta. Cruz. Released under the [MIT] License.<br>
-Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
-<!-- {p: style='display:none'} -->
-
-> [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
-> GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp;
-> Twitter [@rstacruz](https://twitter.com/rstacruz)
-<!-- {blockquote: style='display:none'} -->
-
-[MIT]: http://mit-license.org/
-[contributors]: http://github.com/rstacruz/rscss/contributors
