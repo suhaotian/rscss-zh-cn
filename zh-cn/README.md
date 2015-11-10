@@ -1,4 +1,3 @@
-##### Viewing this from GitHub? Visit the website for the full experience. **[rscss.io →](http://rscss.io)**
 <!-- {h5: style='display:none'} -->
 
 ----
